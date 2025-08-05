@@ -5,11 +5,11 @@
 
 ---
 
-### 🚀 About Me
-- 🎯 Future Pentester & IT Student  
-- 🕵️‍♀️ Passionate about Cybersecurity & CTFs  
-- 💻 Loves **Linux, Python, Bash, and Hacking tools**  
-- 🍃 Anime fan (especially **Nezuko**)  
+###  About Me
+-  Future Pentester 
+-  Passionate about Cybersecurity & CTFs  
+-  Loves **Linux, Python, Bash, and Hacking tools**  
+-  Anime fan (especially **Nezuko**)  
 
 ---
 
@@ -35,8 +35,8 @@
 
 ---
 
-### 🌸 Fun Fact
-> Code + Anime = My Perfect Combo 💻❤️🍃  
+###  Fun Fact
+> Code + Anime = My Perfect Combo 💻  
 
 ---
 
