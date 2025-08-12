@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/xyz1234.png)
+![Banner](e06079f141284468475daeccda2bade9.jpg)
 
 <h1 align="center">Hi there 👋, I'm 0xN3Z</h1>
 <h3 align="center">🔒 Cybersecurity Learner | Pentesting Enthusiast | Anime + Code Fusion</h3>
