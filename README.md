@@ -1,7 +1,7 @@
-![Banner](e06079f141284468475daeccda2bade9.jpg)
+ <img width="1584" height="396" alt="Untitled Design (1)" src="https://github.com/user-attachments/assets/6aa7923e-fb49-4d6a-94db-c884daabb875" />
 
 <h1 align="center">Hi there 👋, I'm 0xN3Z</h1>
-<h3 align="center">🔒 Cybersecurity Learner | Pentesting Enthusiast | Anime + Code Fusion</h3>
+<h3 align="center"> Cybersecurity Learner | Pentesting Enthusiast | Anime + Code Fusion</h3>
 
 ---
 
@@ -36,7 +36,7 @@
 ---
 
 ###  Fun Fact
-> Code + Anime = My Perfect Combo 💻  
+> Code + Anime = My Perfect Combo 
 
 ---
 
