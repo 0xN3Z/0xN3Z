@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠 Tech & Tools I Use
+### Tech & Tools I Use
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash)
@@ -22,13 +22,13 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=0xN3Z&show_icons=true&theme=radical)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xN3Z&layout=compact&theme=radical)
 
 ---
 
-### 🎯 Currently Learning
+###  Currently Learning
 - Pentesting Fundamentals  
 - Bug Bounty Basics  
 - Networking & OSI Model  
