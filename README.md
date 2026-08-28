@@ -9,6 +9,15 @@
   <img src="https://komarev.com/ghpvc/?username=0xN3Z&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/reem-ahmed20/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/Reemelgarh" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
@@ -28,17 +37,6 @@
   <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/TryHackMe-000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xN3Z&show_icons=true&theme=radical" alt="0xN3Z's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xN3Z&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
