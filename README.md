@@ -28,10 +28,10 @@
 
 ### 🧑‍💻 About Me
 
-* 🎯 Future Pentester
-* 🔐 Passionate about Cybersecurity & CTFs
-* 🐧 Loves **Linux, Python, Bash, and Hacking tools**
-* 🎌 Anime fan (especially **Nezuko**)
+- 🎯 Future Pentester
+- 🔐 Passionate about Cybersecurity & CTFs
+- 🐧 Loves **Linux, Python, Bash, and Hacking tools**
+- 🎌 Anime fan (especially **Nezuko**)
 
 ---
 
@@ -56,28 +56,10 @@
 
 ### 📚 Currently Learning
 
-* Pentesting Fundamentals
-* Bug Bounty Basics
-* Networking & OSI Model
-* Web Development with Django
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=0xN3Z&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=0xN3Z&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+- Pentesting Fundamentals
+- Bug Bounty Basics
+- Networking & OSI Model
+- Web Development with Django
 
 ---
 
@@ -88,7 +70,11 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/hacker-gif.gif" width="400" alt="Hacking animation" />
+  <img
+    src="https://media.giphy.com/media/jkas9c3ooa9nu/giphy.gif"
+    width="180"
+    alt="Cute cat playing with a yarn ball"
+  />
 </p>
 
 <p align="center">
