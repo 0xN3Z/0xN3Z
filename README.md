@@ -3,7 +3,12 @@
 </div>
 
 <h1 align="center">Hi there 👋, I'm 0xN3Z</h1>
+
 <h3 align="center">Cybersecurity Learner | Pentesting Enthusiast | Anime + Code Fusion</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Welcome+to+my+little+corner+of+GitHub+%E2%9C%A8;%F0%9F%8C%B8+Hey%2C+I'm+0xN3Z+%F0%9F%8C%B8;%F0%9F%90%BE+Cybersecurity+%2B+Code+%2B+Anime;%E2%9C%A8+Hope+you+enjoy+exploring+%E2%9C%A8" alt="Cute animated welcome" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xN3Z&color=blueviolet&style=for-the-badge" alt="Profile views" />
@@ -13,6 +18,7 @@
   <a href="https://www.linkedin.com/in/reem-ahmed20/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
   <a href="https://twitter.com/Reemelgarh" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
@@ -22,30 +28,56 @@
 
 ### 🧑‍💻 About Me
 
-- 🎯 Future Pentester
-- 🔐 Passionate about Cybersecurity & CTFs
-- 🐧 Loves **Linux, Python, Bash, and Hacking tools**
-- 🎌 Anime fan (especially **Nezuko**)
+* 🎯 Future Pentester
+* 🔐 Passionate about Cybersecurity & CTFs
+* 🐧 Loves **Linux, Python, Bash, and Hacking tools**
+* 🎌 Anime fan (especially **Nezuko**)
 
 ---
 
 ### 🛠️ Tech & Tools I Use
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/TryHackMe-000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github&theme=dark" alt="Tech and tools" />
+</p>
+
+---
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xN3Z&layout=donut&theme=tokyonight&hide_border=true&langs_count=10"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
 
 ### 📚 Currently Learning
 
-- Pentesting Fundamentals
-- Bug Bounty Basics
-- Networking & OSI Model
+* Pentesting Fundamentals
+* Bug Bounty Basics
+* Networking & OSI Model
+* Web Development with Django
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=0xN3Z&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=0xN3Z&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
@@ -56,6 +88,13 @@
 ---
 
 <p align="center">
-  <!-- Replace the link below with a real hosted GIF (e.g. from Giphy or your own repo assets) -->
   <img src="https://i.imgur.com/hacker-gif.gif" width="400" alt="Hacking animation" />
+</p>
+
+<p align="center">
+  🌸 <b>Thanks for visiting my profile</b> 🌸
+</p>
+
+<p align="center">
+  <i>Keep learning. Keep building. Keep hacking. 🖤</i>
 </p>
