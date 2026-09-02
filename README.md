@@ -49,7 +49,6 @@
 
 ## About Me
 
-
 ┌──[0xN3Z@github]─[~]
 └─$ cat about_me.txt
 
@@ -69,7 +68,6 @@
 * 🌐 Building web applications with **Django**
 * 🧠 Learning by understanding how systems work and how they can be secured
 * 🎌 Anime fan, especially **Nezuko**
-
 
 
 ## ⚔️ Cybersecurity Arsenal
@@ -220,11 +218,6 @@ Bug Bounty            ██████████░░░░░░░░░�
 
      
 
-<img
- src="https://user-images.githubusercontent.com/74038190/214643714-b2c946e6-b908-4fea-b01f-effd99081b6e.png"
- width="220"
- alt="Anime girl"
-/>
 
 </p>
 
